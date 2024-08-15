@@ -1,0 +1,2 @@
+# norsec.org
+NorSec BINGO
